@@ -1,0 +1,1 @@
+{"allowed_mediums":["social","email","cpc","referral"],"allowed_params":["ref"],"allowed_sources":["youtube","instagram","newsletter","partner-blog"],"campaign_pattern":"^[a-z0-9]+(-[a-z0-9]+)*$","case":"lower","require":["source","medium","campaign"],"value_pattern":"^[A-Za-z0-9.-]+$"}
