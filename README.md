@@ -277,4 +277,4 @@ fails if network code ever enters the source.
 ## Licence
 
 MIT — see `LICENSE`. If this tool saves you a UTM.io
-invoice, consider sponsoring via the button on the repo.
+invoice, consider sponsoring via GitHub Sponsors: [github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88) (or the Sponsor button on the repo).
